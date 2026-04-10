@@ -69,7 +69,6 @@ Pequena, com responsabilidade única e fácil de entender.
 
 ✔ Testes são parte essencial do desenvolvimento, não apenas uma etapa final.
 
----
 
 # O que é TDD?
 
