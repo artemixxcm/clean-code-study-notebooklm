@@ -6,21 +6,19 @@ A proposta surgiu a partir do meu interesse em aprofundar meus conhecimentos em 
 Mais do que estudar o conteúdo, busquei explorar o uso da Inteligência Artificial como aliada na construção de um sistema estruturado de aprendizado.
 
 ## Contexto e objetivos: 
-Criei este projeto com o objetivo de transformar o estudo técnico em um processo mais estratégico e organizado.
-
-A ideia foi utilizar IA para desenvolver habilidades como:
+Criei este projeto com o objetivo de transformar o estudo técnico em um processo mais estratégico e organizado. A ideia foi utilizar IA para desenvolver habilidades como:
 
 *Estruturar conteúdos complexos de forma clara.
 
-*Gerar resumos didáticos e reutilizáveis.
+* Gerar resumos didáticos e reutilizáveis.
 
-*Criar perguntas práticas para fixação.
+* Criar perguntas práticas para fixação.
 
-*Construir um material de estudo contínuo e escalável.
+* Construir um material de estudo contínuo e escalável.
 
-*Utilizar engenharia de prompts.
+* Utilizar engenharia de prompts.
 
-Organização do conhecimento.
+* Organização do conhecimento.
 
 ## Fontes: 
 As fontes utilizadas para alimentar o NotebookLM foram cuidadosamente selecionadas com foco em qualidade e relevância, dentre elas variados vídeos, artigos, biografia pessoal do autor e o pdf do livro Clean Code. 
