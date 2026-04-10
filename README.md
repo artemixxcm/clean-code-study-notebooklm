@@ -10,15 +10,15 @@ Criei este projeto com o objetivo de transformar o estudo técnico em um process
 
 A ideia foi utilizar IA para desenvolver habilidades como:
 
-Estruturar conteúdos complexos de forma clara.
+*Estruturar conteúdos complexos de forma clara.
 
-Gerar resumos didáticos e reutilizáveis.
+*Gerar resumos didáticos e reutilizáveis.
 
-Criar perguntas práticas para fixação.
+*Criar perguntas práticas para fixação.
 
-Construir um material de estudo contínuo e escalável.
+*Construir um material de estudo contínuo e escalável.
 
-Utilizar engenharia de prompts.
+*Utilizar engenharia de prompts.
 
 Organização do conhecimento.
 
@@ -52,11 +52,11 @@ Esse processo de refinamento revelou algo importante:
 Perceber que a IA responde exatamente ao nível da pergunta que recebe.
 
 ## Dificuldades encontradas:
-Respostas amplas demais, sem profundidade
+*Respostas amplas demais, sem profundidade
 
-Explicações corretas, mas pouco aplicáveis na prática
+*Explicações corretas, mas pouco aplicáveis na prática
 
-Dificuldade em manter consistência entre diferentes respostas
+*Dificuldade em manter consistência entre diferentes respostas
 
 Essas situações me fizeram perceber que o problema não estava na ferramenta, mas na forma como eu estava conduzindo a interação.
 
