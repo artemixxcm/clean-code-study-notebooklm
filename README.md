@@ -52,8 +52,6 @@ Este miniguia foi construído a partir dos estudos realizados com apoio de IA, c
 A proposta é servir como um material de revisão rápida, reunindo os principais conceitos, definições e ferramentas práticas para aplicação no dia a dia.
 
 
-# Resumos Estruturados
-
 # O que é Clean Code?**
 Clean Code é a prática de escrever código que seja fácil de ler, entender e manter. Não se trata apenas de fazer o código funcionar, mas de torná-lo claro para outros desenvolvedores (e para você mesmo no futuro).
 
