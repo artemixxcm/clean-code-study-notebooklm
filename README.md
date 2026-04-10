@@ -4,7 +4,9 @@
 
 Projeto desenvolvido no bootcamp da Accenture + DIO com a proposta de utilizar o NotebookLM como ferramenta de Inteligência Artificial para estruturar, organizar e aprofundar o aprendizado sobre Clean Code, com base na obra de Robert C. Martin (Uncle Bob).
 
-![Mapa Mental](mapas-mentais/notebooklm-map-clean-code)
+<p align="center">
+  <img src="mapas-mentais/notebooklm-map-clean-code.png" width="500"/>
+</p>
 
 # Estrutura do projeto
 
