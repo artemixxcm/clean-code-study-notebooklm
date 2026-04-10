@@ -18,5 +18,6 @@ Estes foram os primeiros prompts utilizados durante a exploração do tema Clean
 .Qual a importância da utilização do TDD num ambiente profissional para melhor qualidade e entrega para os clientes?
 
 
-# Conclusão: Esses prompts foram importantes para dar uma visão inicial sobre o tema, mas ao longo do projeto foi necessário refiná-los para obter respostas mais estruturadas, específicas e aplicáveis.
+# Conclusão: 
+Esses prompts foram importantes para dar uma visão inicial sobre o tema, mas ao longo do projeto foi necessário refiná-los para obter respostas mais estruturadas, específicas e aplicáveis.
 
