@@ -1,11 +1,21 @@
 # clean-code-study-notebooklm
-Using AI to transform Clean Code concepts into structured learning: summaries, mind maps, and practical questions.
 
-Este projeto foi desenvolvido como parte do desafio da Accenture + DIO no bootcamp de Python para Análise e Automação de Dados.
-A proposta surgiu a partir do meu interesse em aprofundar meus conhecimentos em boas práticas de desenvolvimento, utilizando como base a obra Clean Code de Robert C. Martin, um material que considero essencial para qualquer desenvolvedor que deseja escrever código de forma profissional, legível e sustentável.
-Mais do que estudar o conteúdo, busquei explorar o uso da Inteligência Artificial como aliada na construção de um sistema estruturado de aprendizado.
+# Using AI to transform Clean Code concepts into structured learning: summaries, mind maps, and practical questions.
 
+Projeto desenvolvido no bootcamp da Accenture + DIO com a proposta de utilizar o NotebookLM como ferramenta de Inteligência Artificial para estruturar, organizar e aprofundar o aprendizado sobre Clean Code, com base na obra de Robert C. Martin (Uncle Bob).
+
+![Mapa Mental](mapas-mentais/clean-code-principios.png)
+
+# Estrutura do projeto
+
+- 🧠 [Mapas mentais](mapas-mentais/)
+- 📊 [Apresentações](apresentacoes/)
+- ❓ [Perguntas](perguntas/)
+- 🧠 [Prompts](prompts/)
+
+  
 ## Contexto e objetivos: 
+
 Criei este projeto com o objetivo de transformar o estudo técnico em um processo mais estratégico e organizado. A ideia foi utilizar IA para desenvolver habilidades como:
 
 *Estruturar conteúdos complexos de forma clara.
