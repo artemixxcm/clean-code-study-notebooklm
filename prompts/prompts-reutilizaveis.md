@@ -30,5 +30,5 @@ Este conjunto de prompts foi refinado ao longo do projeto com o objetivo de apoi
 
 -"Liste perguntas que um desenvolvedor iniciante deve saber sobre esse tema".
 
-
+# Conclusão
 Esses prompts foram ajustados ao longo do projeto com base nos resultados obtidos, buscando respostas mais estruturadas, práticas e aplicáveis ao contexto real de desenvolvimento. Eles refletem não apenas o conteúdo estudado, mas também a evolução na forma de utilizar comandos.
