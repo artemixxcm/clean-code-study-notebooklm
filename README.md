@@ -20,7 +20,7 @@ Projeto desenvolvido no bootcamp da Accenture + DIO com a proposta de utilizar o
 
 Criei este projeto com o objetivo de transformar o estudo técnico em um processo mais estratégico e organizado. A ideia foi utilizar IA para desenvolver habilidades como:
 
-*Estruturar conteúdos complexos de forma clara.
+* Estruturar conteúdos complexos de forma clara.
 
 * Gerar resumos didáticos e reutilizáveis.
 
@@ -36,6 +36,7 @@ Criei este projeto com o objetivo de transformar o estudo técnico em um process
 As fontes utilizadas para alimentar o NotebookLM foram cuidadosamente selecionadas com foco em qualidade e relevância, dentre elas variados vídeos, artigos, biografia pessoal do autor e o pdf do livro Clean Code. 
 
 Links de algumas das fontes: 
+
 https://dev.to/jimysheepman/clean-code-book-summary-i-1a69
 
 https://en.wikipedia.org/wiki/Robert_C._Martin
@@ -62,11 +63,12 @@ Esse processo de refinamento revelou algo importante:
 Perceber que a IA responde exatamente ao nível da pergunta que recebe.
 
 ## Dificuldades encontradas:
-*Respostas amplas demais, sem profundidade
 
-*Explicações corretas, mas pouco aplicáveis na prática
+* Respostas amplas demais, sem profundidade
 
-*Dificuldade em manter consistência entre diferentes respostas
+* Explicações corretas, mas pouco aplicáveis na prática
+
+* Dificuldade em manter consistência entre diferentes respostas
 
 Essas situações me fizeram perceber que o problema não estava na ferramenta, mas na forma como eu estava conduzindo a interação.
 
@@ -82,26 +84,26 @@ Clean Code é a prática de escrever código que seja fácil de ler, entender e 
 
 # Principais objetivos
 
-. Melhorar a legibilidade do código
+* Melhorar a legibilidade do código
 
-. Facilitar manutenção e evolução do sistema
+* Facilitar manutenção e evolução do sistema
 
-. Reduzir a incidência de bugs
+* Reduzir a incidência de bugs
 
-. Tornar o código mais previsível e organizado
+* Tornar o código mais previsível e organizado
 
 
  # Boas práticas fundamentais
 
-.Usar nomes claros e significativos
+* Usar nomes claros e significativos
 
-.Escrever funções pequenas e com responsabilidade única
+* Escrever funções pequenas e com responsabilidade única
 
-.Evitar duplicação de código
+* Evitar duplicação de código
 
-.Manter o código simples
+* Manter o código simples
 
-.Escrever comentários apenas quando necessário
+* Escrever comentários apenas quando necessário
 
 
 
@@ -144,17 +146,17 @@ O TDD (Test Driven Development) propõe escrever testes antes do código, garant
 
 #  Glossário:
 
-. **Clean Code**: Código limpo, legível e de fácil manutenção
+**Clean Code**: Código limpo, legível e de fácil manutenção
 
-. **Refatoração**: Melhorar o código sem alterar seu comportamento
+ **Refatoração**: Melhorar o código sem alterar seu comportamento
 
-. **TDD (Test Driven Development)**: Desenvolvimento orientado a testes
+ **TDD (Test Driven Development)**: Desenvolvimento orientado a testes
 
-. **Legibilidade**: Facilidade de leitura e compreensão do código
+ **Legibilidade**: Facilidade de leitura e compreensão do código
 
-. **Manutenibilidade**: Facilidade de modificar e evoluir o sistema
+ **Manutenibilidade**: Facilidade de modificar e evoluir o sistema
 
----
+
 
 # Prompts Reutilizáveis
 
